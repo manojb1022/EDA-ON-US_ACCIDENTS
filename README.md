@@ -2,7 +2,7 @@
 DATA ANALYSIS
 
 Data Set - https://www.kaggle.com/sobhanmoosavi/us-accidents
-you can download data set with above given link
+you can download data set with the given link
 
 1. Data Prepration
 2. Data CLeansing
